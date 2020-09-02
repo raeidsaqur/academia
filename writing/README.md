@@ -13,7 +13,7 @@ Google doc for the [meeting](https://docs.google.com/document/d/1TUqpnc2fEwoOHaz
 	- Solutions: 
 	    - Get over it. Build a network/group of peers/collaborators you feel comfortable w/ in doing this. 
 	    - Exposure will alleviate the discomfort over time. 
-	    - __Don't take life 'too' seriously__. This is too pervasive in academia (outsider perspective): the fear of being judged _'not smart or intelligent'_. Who gives a sh$t? Really, you are not that important (unless you are Carl Friedrich Gauss, Godel et al. - if true, stop reading this immediately), and neither are those trashing you ideas  
+	    - __Don't take life 'too' seriously__. This is too pervasive in academia (outsider perspective): the fear of being judged _'not smart or intelligent'_. Who gives a sh$t? In the long run, we are all dead (Keynes). Really, you are not that important (unless you are Carl Friedrich Gauss, Godel, Ramanujan et al. esque talent - if true, stop reading this immediately), and neither are those trashing you ideas  
 - Use `fake deadlines' and write versions.
 
 *What are some Resources people can look at?*
