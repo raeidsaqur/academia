@@ -6,6 +6,7 @@ Google doc for the [meeting](https://docs.google.com/document/d/1TUqpnc2fEwoOHaz
 
 *(Distilled) Personal Suggestions:*
 - Take audience PoV: the biggest problem is forgetting you know more than the audience. 
+- Adhere to these 4 principles of 'good writing' (these transcends all writing verticals): *Simplicity, Clarity, Brevity and Humanity*. 
 - Get reviews/feedback from peers on excerpts (don't wait for the polished version)
 	- Problems: 
 	    - Reluctance/vulnerability in showing unfinished work
