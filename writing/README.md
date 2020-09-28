@@ -1,5 +1,12 @@
 ## Academic Writing
 
+
+### Reviewers Perspective
+
+*Blogs: *
+- Eric Jang [My Criteria for Reviewing Papers](https://blog.evjang.com/2020/09/reviewing.html)
+
+
 ### Notes from Sep 2, 2020 Grad Metaskills with IAI lab
 
 Google doc for the [meeting](https://docs.google.com/document/d/1TUqpnc2fEwoOHaz1-mvnBdUolb6ps_CexbCZt2aq9NY/edit#)
