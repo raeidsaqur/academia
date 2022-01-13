@@ -1,5 +1,20 @@
-## Academic Writing
+## Research Writing
 
+[How to write a good CVPR submission, by Bill Freeman]
+(https://billf.mit.edu/sites/default/files/documents/cvprPapers.pdf)
+
+
+[Ten rules of writing Math equations, by Dimitri Bertsekas]
+(http://www.mit.edu/~dimitrib/Ten_Rules.html)
+
+[Note on writing, by Fredo Durand]
+(http://people.csail.mit.edu/fredo/PUBLI/writing.pdf)
+
+
+[How to write a (hopefully good) paper, by Martin Vetterli]
+(http://mri.beckman.uiuc.edu/resources/good_paper.pdf)
+
+## Peer Reviews
 
 ### Reviewers Perspective
 
