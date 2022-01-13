@@ -1,14 +1,41 @@
 ## Research Writing
 
-[Ten rules of writing Math equations, by Dimitri Bertsekas](http://www.mit.edu/~dimitrib/Ten_Rules.html)
+### [Ten rules of writing Math equations, by Dimitri Bertsekas](http://www.mit.edu/~dimitrib/Ten_Rules.html)
 
-[How to write a good CVPR submission, by Bill Freeman](https://billf.mit.edu/sites/default/files/documents/cvprPapers.pdf)
+### [How to write a good CVPR submission, by Bill Freeman](https://billf.mit.edu/sites/default/files/documents/cvprPapers.pdf)
 
-[Note on writing, by Fredo Durand](http://people.csail.mit.edu/fredo/PUBLI/writing.pdf)
+Mermin's __The Good Samaritan Rule__: When referring to an equation, identify it by a phrase as well as a number.
 
-[How to write a (hopefully good) paper, by Martin Vetterli](http://mri.beckman.uiuc.edu/resources/good_paper.pdf)
+[RS]: This applies to paper citing or references as well, it's so much easier to read: "_Following the BERT architecture from Devlin et al. [4]_", than "_Following [4]'s architecture_,..."
+
+From _The Elements of Style_ (William Strunk Jr.)[link](https://www.astro.ncu.edu.tw/~wchen/Courses/SciWriting/The_Elements_of_Style.pdf)
+_Vigorous writing is concise. A sentence should contain no unnecessary words, a
+paragraph no unnecessary sentences, for the same reason that a drawing should have no
+unnecessary lines and a machine no unnecessary parts. This requires not that the writer
+make all his sentences short, or that he avoid all detail and treat his subjects only in
+outline, but that every word tell_
+
+### [Note on writing, by Fredo Durand](http://people.csail.mit.edu/fredo/PUBLI/writing.pdf)
+
+### [How to write a (hopefully good) paper, by Martin Vetterli](http://mri.beckman.uiuc.edu/resources/good_paper.pdf)
+
+### Notable (older) Resources
+[1](http://www.ai.mit.edu/courses/6.899/papers/knuthAll.pdf) Notes on technical writing, Don Knuth, 1989.
+
+[2](http://www.siggraph.org/publications/instructions/rejected.html) How to Get Your SIGGRAPH Paper Rejected, Jim Kajiya, SIGGRAPH 1993 Papers Chair.
+
+[3](http://www.cs.cmu.edu/~jrs/sins.html) Three sins of authors in computer science and math, Jonathan Shewchuck 
+
+[4](http://www.ai.mit.edu/courses/6.899/papers/ted.htm) Ted Adelson's Informal guidelines for writing a paper, 1991. 
+
 
 ## Peer Reviews
+N.B. See the Bill Freeman linkn above on CVPR paper, which often includes reviewers (especially AC, PC) perspectives.
+
+__Borderline papers type__: 
+1. _The Cockroach_: You try, but you can’t find a way to kill this paper. While there’s nothing too exciting about it, it’s pretty well written, the reviews are ok, the results show an incremental improvement. Yet another kind of boring conference paper.
+ 
+2. _The Puppy with 6 toes_: A delightful paper, but with some easy-to-point-to flaw. This flaw may not be important, but it makes it easy to kill the paper, and sometimes you have to reject that paper, even though it’s so fresh and wonderful.
 
 ### Reviewers Perspective
 
