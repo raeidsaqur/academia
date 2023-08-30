@@ -1,3 +1,6 @@
+## General Writing
+[1](https://www.gutenberg.org/files/37134/37134-h/37134-h.htm) Elements of Style by William Strunk [here](https://www.gutenberg.org/files/37134/37134-h/37134-h.htm).
+
 ## Research Writing
 
 ### [Ten rules of writing Math equations, by Dimitri Bertsekas](http://www.mit.edu/~dimitrib/Ten_Rules.html)
